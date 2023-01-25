@@ -185,4 +185,8 @@ body {
         margin-left: 1em;
         margin-right: 1em;
     }
+    
+    .lista__link a {
+        margin-right: 1em;
+    }
 }
